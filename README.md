@@ -7,9 +7,9 @@ Son un ejercicio con el cual se está validando la usabilidad y pertinencia de l
 
 **Instaladores de OSMTracker**
 
- * Versión A: subir trazas a Google Drive.
+ * Versión A: [subir trazas a Google Drive](https://github.com/labexp/trazas-mapeo-sonoro/blob/2f4e7b817ccc143fce0664ab0ab5b0535981a1fb/APKs/OSMTracker-develop-GoogleDrive.apk).
 
- * Versión B: subir trazas a GitHub.
+ * Versión B: [subir trazas a GitHub](https://github.com/labexp/trazas-mapeo-sonoro/blob/2f4e7b817ccc143fce0664ab0ab5b0535981a1fb/APKs/OSMTracker-fork-GitHub.apk).
 
 
 **Carpetas compartidas**
